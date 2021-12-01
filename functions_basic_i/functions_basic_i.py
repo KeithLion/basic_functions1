@@ -63,6 +63,8 @@ def number_of_oceans_or_fingers_or_continents():
         return 10
     return 7
 print(number_of_oceans_or_fingers_or_continents())
+# P - 100 10
+# return 100 10
 
 
 #9
