@@ -110,6 +110,8 @@ def foobar():
 print(b)
 foobar()
 print(b)
+# P - 500 500 300 500
+# return 500 500 300 500
 
 
 #13
