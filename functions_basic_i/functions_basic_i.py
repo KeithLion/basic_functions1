@@ -97,7 +97,8 @@ def foobar():
 print(b)
 foobar()
 print(b)
-
+# P - 500 500 300 500 
+# returns 500 500 300 500
 
 #12
 b = 500
