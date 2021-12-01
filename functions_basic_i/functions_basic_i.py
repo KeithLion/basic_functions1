@@ -25,6 +25,8 @@ def number_of_fingers():
     return 5
     print(10)
 print(number_of_fingers())
+# P - will print 10
+# returns 5
 
 
 #5
