@@ -34,6 +34,8 @@ def number_of_great_lakes():
     print(5)
 x = number_of_great_lakes()
 print(x)
+# P - retune 5
+# return 5 and none
 
 
 #6
