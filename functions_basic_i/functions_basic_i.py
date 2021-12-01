@@ -77,7 +77,8 @@ def number_of_days_in_a_week_silicon_or_triangle_sides(b,c):
 print(number_of_days_in_a_week_silicon_or_triangle_sides(2,3))
 print(number_of_days_in_a_week_silicon_or_triangle_sides(5,3))
 print(number_of_days_in_a_week_silicon_or_triangle_sides(2,3) + number_of_days_in_a_week_silicon_or_triangle_sides(5,3))
-
+# P - 14 7 21
+# return 7 14 21
 
 #10
 def addition(b,c):
