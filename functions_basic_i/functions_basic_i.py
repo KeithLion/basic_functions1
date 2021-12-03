@@ -136,7 +136,8 @@ def foo():
 def bar():
     print(3)
 foo()
-
+# P - 1 3 2
+# return 1 3 2
 
 #15
 def foo():
@@ -149,3 +150,5 @@ def bar():
     return 5
 y = foo()
 print(y)
+# P -  1 3 5 10 
+# return 1 3 5 10
